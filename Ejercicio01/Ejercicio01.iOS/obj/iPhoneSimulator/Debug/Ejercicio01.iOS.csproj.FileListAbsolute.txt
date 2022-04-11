@@ -1,0 +1,13 @@
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\Ejercicio01.iOS.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Ejercicio01\Ejercicio01\Ejercicio01.iOS\obj\iPhoneSimulator\Debug\Ejercicio01.iOS.csproj.CoreCompileInputs.cache
